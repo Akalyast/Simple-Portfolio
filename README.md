@@ -7,8 +7,7 @@ Welcome to **Akalya S T's Portfolio Website**, a responsive and interactive port
 
 ```
 ├── index.html          # Main HTML file
-├── style.css           # Styling for the website
-├── assets/             # Folder for images and logos (not included in this zip)
+├── style.css           # Styling for the website            
 │   ├── google logo2.png
 │   ├── github logo2.png
 │   ├── linkedin logo2.png
@@ -48,9 +47,8 @@ Welcome to **Akalya S T's Portfolio Website**, a responsive and interactive port
 
 ## 🖼️ Preview Screenshot
 
-> You can add a preview image by uploading a screenshot and referencing it like this:
-```markdown
-![Portfolio Screenshot](assets/screenshot.png)
+
+![Portfolio Screenshot](screenshotPortfolio.png)
 ```
 
 ---
@@ -66,7 +64,7 @@ Welcome to **Akalya S T's Portfolio Website**, a responsive and interactive port
 ## 📧 Contact
 
 - Email: [akalyaakalyaa590@gmail.com](mailto:akalyaakalyaa590@gmail.com)
-- LinkedIn: [Akalya S T](https://www.linkedin.com) *(Add actual link)*
+- LinkedIn: [Akalya S T](https://www.linkedin.com/in/akalya-s-t-8aaba12a0/) 
 
 ---
 
